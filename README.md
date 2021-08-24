@@ -3,7 +3,7 @@ ML model to detect whether user is using mask or not.
 
 Libraries Used - 
 
-OpenCV
+OpenCV,
 Keras
 Numpy
 
